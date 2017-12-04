@@ -40,6 +40,7 @@ public:
 };
 // ×Ô¶¯ÊÍ·Å
 // add comment from 1 at 2
+// add modify by mater
 class AutoUniLocker{
 public:
 	AutoUniLocker(UniLock& locker)
