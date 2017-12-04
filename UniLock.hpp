@@ -15,6 +15,7 @@ namespace util{
 ´Ó1ÐÞ¸Ä
 add comment from 1
 add modify by develop
+add midify by master for merger
 ******************************************************/
 class UniLock
 {
