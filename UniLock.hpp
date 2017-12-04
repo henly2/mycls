@@ -38,6 +38,7 @@ public:
 	}
 };
 // ×Ô¶¯ÊÍ·Å
+// add comment from 1 at 2
 class AutoUniLocker{
 public:
 	AutoUniLocker(UniLock& locker)
