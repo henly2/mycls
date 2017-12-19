@@ -17,7 +17,7 @@ namespace util
 {
 
 /** 
- * @brief 自动释放句柄2abcd
+ * @brief 自动释放句柄2abcdefg
  * @author liuheng
  * 
  * 自动释放句柄
