@@ -4,7 +4,7 @@
  * @sa null
  * @author liuheng
  * @date 4/9/2017
- *
+ *20180115
  * 文件日志
  */
 #ifndef simplefilelog_hpp_
