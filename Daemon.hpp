@@ -21,6 +21,7 @@ namespace util
  * @author liuheng
  * 
  * ×Ô¶¯ÊÍ·Å¾ä±ú
+ 20180115-1
  */
 class AutoCloseHandler{
 public:
